@@ -22,6 +22,8 @@ The following REQUIRED features are completed:
 - [ ] Display at least three (3) pieces of data for each API entry retrieved
 - [ ] A working Button requests a new API entry and updates the data displayed
 
+Note: I think the Glide function is running before I get the data for image URL, haven't been able to figure it out yet :((
+
 The following STRETCH features are implemented:
 
 - [ ] Add a query to the API request
