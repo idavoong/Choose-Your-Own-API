@@ -1,10 +1,10 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 5 - Choose Your Own API
+# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
 
 Submitted by: Ida Voong
 
-Time spent: 6 hours spent in total
+Time spent: 3 hours spent in total
 
 ## Summary
 
@@ -19,16 +19,16 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 The following REQUIRED features are completed:
 
 - [x] Make an API call to an API of your choice using AsyncHTTPClient
-- [ ] Display at least three (3) pieces of data for each API entry retrieved
-- [ ] A working Button requests a new API entry and updates the data displayed
+- [ ] Implement a RecyclerView to display a list of entries from the API
+- [ ] Display at least three (3) pieces of data for each RecyclerView item
 
 Note: I think the Glide function is running before I get the data for image URL, haven't been able to figure it out yet :((
 
 The following STRETCH features are implemented:
 
-- [ ] Add a query to the API request
-  - The query I added is **FILL IN HERE**
-- [ ] Build a UI to allow users to add that query
+- [ ] Add a UI element for the user to interact with API further
+- [ ] Show a `Toast` or `Snackbar` when an item is clicked
+- [ ] Add item dividers with `DividerItemDecoration`
 
 The following EXTRA features are implemented:
 
